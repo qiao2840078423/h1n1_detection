@@ -3,8 +3,8 @@ const fs = require("fs");
 const db = mysql.createPool({
   host: "127.0.0.1",
   user: "root",
-  password: "lkp123",
-  database: "acid",
+  password: "031106",
+  database: "dbase",
 });
 
 // Function to run the SQL scripts
